@@ -14,12 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center>
 
-
-![](https://img.shields.io/github/followers/soongu?style=social)
-
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient)
-
-![](./치킨.gif)
 
