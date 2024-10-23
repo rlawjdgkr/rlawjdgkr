@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-3766AB?style=flat-square&logo=HTML5&logoColor=#E34F26"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GIT-ffb13b?style=flat-square&logo=git&logoColor=#F05032"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <br>
 </p>
 
